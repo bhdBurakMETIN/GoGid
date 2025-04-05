@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Gogid_Project.sln"
+    "dotnet.defaultSolution": "GoGid.sln"
 }
